@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2789" started-at="2019-05-23T17:53:06Z" finished-at="2019-05-23T17:53:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2789" started-at="2019-05-23T17:53:06Z" finished-at="2019-05-23T17:53:09Z">
+      <class name="com.TwitterAPIProject.goodpractice.UpdateTweets">
+        <test-method status="PASS" signature="addTweets()[pri:0, instance:com.TwitterAPIProject.goodpractice.UpdateTweets@4cf777e8]" name="addTweets" duration-ms="2319" started-at="2019-05-23T17:53:06Z" finished-at="2019-05-23T17:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTweets -->
+        <test-method status="PASS" signature="deleteUpdatedTweet()[pri:0, instance:com.TwitterAPIProject.goodpractice.UpdateTweets@4cf777e8]" name="deleteUpdatedTweet" duration-ms="435" started-at="2019-05-23T17:53:09Z" finished-at="2019-05-23T17:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUpdatedTweet -->
+      </class> <!-- com.TwitterAPIProject.goodpractice.UpdateTweets -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
